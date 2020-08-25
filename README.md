@@ -1,6 +1,14 @@
 ### Geroge 的占星空间
+##### 帮你了解来自星星的你
 
-#### 帮你了解来自星星的你
-
+#### 简单入门
 - [入门级知识](https://github.com/soulqw/Astronomic/blob/master/%E5%8D%A0%E6%98%9F%E5%85%A5%E9%97%A8.md)
+
+#### 详细分析
+- [生命四元素](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/A_%E5%85%83%E7%B4%A0.png)
+- [行星](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/B_%E8%A1%8C%E6%98%9F.png)
+- [星座](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/C_%E6%98%9F%E5%BA%A7.png)
+- [宫位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/D_%E5%AE%AB%E4%BD%8D.png)
+- [相位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/E_%E7%9B%B8%E4%BD%8D.png)
+
 
