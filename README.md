@@ -11,4 +11,6 @@
 - [宫位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/D_%E5%AE%AB%E4%BD%8D.png)
 - [相位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/E_%E7%9B%B8%E4%BD%8D.png)
 
+#### 综合论断
+- [健康](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/G_%E5%81%A5%E5%BA%B7.png)
 
