@@ -15,4 +15,5 @@
 
 #### 综合论断
 - [健康](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/G_%E5%81%A5%E5%BA%B7.png)
+- [演化占星](https://www.yuque.com/docs/share/8893be53-fbee-44db-bb9b-a1806d5d4b58)
 
