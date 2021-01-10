@@ -10,7 +10,9 @@
 - [行星](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/B_%E8%A1%8C%E6%98%9F.png)
   日月水金火木土天海冥
 - [星座](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/C_%E6%98%9F%E5%BA%A7.png)
+
 - [宫位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/D_%E5%AE%AB%E4%BD%8D.png)
+
 - [相位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/E_%E7%9B%B8%E4%BD%8D.png)
 
 #### 综合论断
