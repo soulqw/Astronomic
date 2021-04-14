@@ -19,7 +19,6 @@
 - [健康](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/G_%E5%81%A5%E5%BA%B7.png)
 - [演化占星一阶](https://www.yuque.com/docs/share/8893be53-fbee-44db-bb9b-a1806d5d4b58)
 - [演化占星二阶](https://www.yuque.com/docs/share/602c9b77-2120-47c7-bafe-400814bdf22f)
-- [演化占星三阶](https://www.yuque.com/docs/share/602c9b77-2120-47c7-bafe-400814bdf22f)
-
+- [演化占星三阶](https://www.yuque.com/u2259771/euf4ak/pphs91)
 - [案例解析](https://www.yuque.com/docs/share/a09829ec-54df-4d4e-820c-ee6caed236d7?#)
 
