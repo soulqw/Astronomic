@@ -6,9 +6,9 @@
 
 #### 详细分析
 - [生命四元素](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/A_%E5%85%83%E7%B4%A0.png)
-  火、土、风、水 几个元素告诉你需要面对的人生课题
+  火、土、风、水 四元素
 - [行星](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/B_%E8%A1%8C%E6%98%9F.png)
-  日月水金火木土天海冥
+  日月水金火木土天海冥 行星
 - [星座](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/C_%E6%98%9F%E5%BA%A7.png)
 
 - [宫位](https://github.com/soulqw/Astronomic/blob/master/%E7%8E%B0%E4%BB%A3/D_%E5%AE%AB%E4%BD%8D.png)
